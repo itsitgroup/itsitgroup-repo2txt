@@ -1,6 +1,18 @@
+# Repository Inspiration
+
+This repository served as the foundation for [Repo2Txt.com](https://repo2txt.com/), a web-based tool designed to convert code repositories into formatted text files suitable for Large Language Model (LLM) prompts.
+
+We expanded upon this concept to develop:
+
+- [Local Directory to Plain Text Converter](https://repo2txt.com/local.html): Transforms local directories or compressed files into structured text formats. 
+
+- [Web2Txt: AI-Friendly Web Scraper with Crawl4AI](https://repo2txt.com/crawl4ai.html): Extracts web content and converts it into Markdown, facilitating AI model training. 
+
+For more details, visit [Repo2Txt.com](https://repo2txt.com/).
+
 # GitHub Repo to Text Converter (Local Directory Supported)
 
-https://repo2txt.simplebasedomain.com/
+https://repo2txt.com/
 
 This web-based tool converts GitHub repository (or local directory) contents  into a formatted text file for Large Language Model (LLM) prompts. It streamlines the process of transforming repository data into LLM-friendly input.
 
